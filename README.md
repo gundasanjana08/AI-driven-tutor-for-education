@@ -74,6 +74,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 For support or collaboration, feel free to reach out:
 - **GitHub Issues:** [Open an issue](https://github.com/gundasanjana08/AI-driven-tutor-for-education/issues)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
 
 
